@@ -21,6 +21,8 @@ Please find your product model below and click the corresponding "Download" link
 | **DX-BT33-P** | [Download (RAR)](https://github.com/DX-SMART/BluetoothModule/releases/download/DX-BT33-P/DX-BT33-P.Development.User.Information.rar) |
 | **DX-BT35** | [Download (RAR)](https://github.com/DX-SMART/BluetoothModule/releases/download/DX-BT35/DX-BT35.Development.User.Information.rar) |
 | **DX-BT36** | [Download (RAR)](https://github.com/DX-SMART/BluetoothModule/releases/download/DX-BT36/DX-BT36.Development.User.Information.rar) |
+| **DX-BT39** | [Download (RAR)](https://github.com/DX-SMART/BluetoothModule/releases/download/DX-BT39/DX-BT39.Development.User.Information.rar) |
+
 
 ---
 > 💡 **Tip:** Clicking the link will directly start downloading the corresponding RAR package.
